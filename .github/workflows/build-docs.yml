@@ -40,14 +40,6 @@ jobs:
             artifacts/report.json
           retention-days: 7
 
-      - name: Download artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: docs
-
-      - name: Unzip artifact
-        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
