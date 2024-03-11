@@ -4,9 +4,9 @@
 
 <instance-profile id="docs"
                  name="PurpleMonkeyMC Documentation"
-                 start-page="index.md">
+                 start-page="welcome.md">
 
-    <toc-element topic="index.md"/>
+    <toc-element topic="welcome.md"/>
     <toc-element topic="features.md"/>
     <toc-element topic="ranks.md"/>
     <toc-element topic="changelog.md"/>
