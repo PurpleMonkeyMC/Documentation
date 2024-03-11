@@ -3,9 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="docs"
-                 name="PurpleMonkeyMC / Server Documentation"
-                 start-page="home.md">
+                 name="PurpleMonkeyMC Documentation"
+                 start-page="index.md">
 
-    <toc-element topic="home.md"/>
+    <toc-element topic="index.md"/>
+    <toc-element topic="游戏功能.md"/>
+    <toc-element topic="ranks.md"/>
     <toc-element topic="changelog.md"/>
 </instance-profile>
