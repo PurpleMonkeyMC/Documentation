@@ -14,9 +14,9 @@ permissions:
 
 env:
   # Name of module and id separated by a slash
-  INSTANCE: Writerside/main
+  INSTANCE: Writerside/docs
   # Replace XX with the ID of the instance in capital letters
-  ARTIFACT: webHelpmain2-all.zip
+  ARTIFACT: documentation-all.zip
   # Docker image version
   DOCKER_VERSION: 232.10275
 
