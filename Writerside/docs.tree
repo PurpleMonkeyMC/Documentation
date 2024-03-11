@@ -13,6 +13,7 @@
         <toc-element topic="game.md"/>
         <toc-element topic="creative.md"/>
         <toc-element topic="competition.md"/>
+        <toc-element topic="matchs.md"/>
         <toc-element topic="social.md">
             <toc-element topic="league.md"/>
             <toc-element topic="friends.md"/>
