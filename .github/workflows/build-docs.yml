@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'PurpleMonkeyMC/Documentation'
+  INSTANCE: 'Writerside/main'
   ARTIFACT: 'documentation-all.zip'
   DOCKER_VERSION: '233.14389'
 
