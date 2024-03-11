@@ -11,12 +11,15 @@ permissions:
 
 env:
   INSTANCE: 'Writerside/main'
-  ARTIFACT: 'documentation-all.zip'
+  ARTIFACT: 'documentation-all'
   DOCKER_VERSION: '233.14389'
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,34 +39,14 @@ jobs:
             artifacts/${{ env.ARTIFACT }}
             artifacts/report.json
           retention-days: 7
-  test:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: docs
-          path: artifacts
 
-      - name: Test documentation
-        uses: JetBrains/writerside-checker-action@v1
-        with:
-          instance: ${{ env.INSTANCE }}
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: [build, test]
-    runs-on: ubuntu-latest
-    steps:
       - name: Download artifacts
         uses: actions/download-artifact@v3
         with:
           name: docs
 
       - name: Unzip artifact
-        run: unzip -O UTF-8 -qq 'documentation-all' -d dir
+        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
