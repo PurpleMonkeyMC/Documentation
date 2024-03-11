@@ -4,6 +4,7 @@
 
     <build-profile instance="docs">
         <variables>
+            <header-logo>logo.png</header-logo>
             <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
