@@ -4,7 +4,8 @@
 
 <instance-profile id="docs"
                  name="Server Documentation"
-                 start-page="Default-topic.md">
+                 start-page="home.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="home.md"/>
+    <toc-element topic="CHANGELOG.md"/>
 </instance-profile>
