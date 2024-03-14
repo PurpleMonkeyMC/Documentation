@@ -104,6 +104,8 @@
 
 为区分社团，每个社团都将拥有独立的旗帜，以彰显社团自身独特的风格与主题。
 
+您可以在 [SkinMC](https://skinmc.net/banner/editor?=aalloLlflcowlE) 设计自己的社团旗帜，并在游戏中通过内置GUI完成设置。
+
 
 
 
