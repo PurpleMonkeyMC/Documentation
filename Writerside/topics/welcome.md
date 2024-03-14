@@ -18,4 +18,7 @@
 **PurpleMonkeyMC** 拥有浑厚的技术底蕴与优秀的服务态度，有十足的信心能为您承办中型乃至大型跑酷赛事，具体事务请联系[商务邮箱](mailto:zihoupmc@163.com) `zihoupmc@163.com` 。
 
 
+## 推荐文献
 
+- [我的世界跑酷中文维基](https://mcpkcn.fandom.com/zh/wiki/MCPKCN_Wiki)
+- [MineCraft Parkour WIKI](https://www.mcpk.wiki/wiki/Main_Page)

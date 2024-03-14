@@ -10,9 +10,9 @@
     </build-profile>
     <footer>
         <copyright>PurpleMonkeyMC 2022-2024 | All rights reserved.</copyright>
+        <social type="email" href="mailto:zihoupmc@163.com"/>
         <social type="bilibili" href="https://space.bilibili.com/3493143842392737"/>
-        <link href="https://github.com/PurpleMonkeyMC">GitHub</link>
-        <link href="https://kook.top/9FVj6L">KOOK</link>
-        <link href="https://discord.gg/h4MWYwAxDy">Discord</link>
+        <link href="https://github.com/PurpleMonkeyMC">开发社区</link>
+        <link href="https://github.com/PurpleMonkeyMC/Documentation/issues/new">获取帮助</link>
     </footer>
 </buildprofiles>
