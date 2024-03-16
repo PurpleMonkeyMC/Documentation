@@ -10,7 +10,7 @@ ___
 
 ## 2024-02-19
 
-**支持修改工具物品顺序**
+[**支持修改工具物品顺序**](lobby.md#toolkit)
 : 现在可在大厅中修改工具物品的顺序，
 : 其指令为 `/toolkit edit <物品包ID>` 。
 : ![toolkit-editor.jpg](toolkit-editor.jpg){width="500"}
