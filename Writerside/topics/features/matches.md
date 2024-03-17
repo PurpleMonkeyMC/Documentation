@@ -1,6 +1,6 @@
 # 匹配竞赛
 
-## 全服匹配竞赛 {id="match-queue"}
+## 全服匹配竞赛 {id="queue"}
 
-## 个人房间竞赛 {id="match-room"}
+## 个人房间竞赛 {id="room"}
 
