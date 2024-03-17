@@ -13,17 +13,43 @@
 
 您还可以利用列表左下方的“搜索”、“筛选”与“排序”工具快速找到您想要游玩的地图。
 
-## 创建地图
+## 创意指令 {id="commands"}
 
-## 创意工具
+## 创建地图 {id="create"}
 
-## 保存背包 {id="backpack"}
+## 地图信息 {id="information"}
+
+## 协作编辑 {id="cooperate"}
+
+## 创意工具 {id="tools"}
+
+![creative-tools.png](creative-tools.png){width="500"}
+
+您可以输入 `/menu` 或按下 <shortcut>Shift+切换副手键</shortcut> 快速打开创意工具界面。
+
+## 地图边界 {id="border"}
+
+## 记录点与进度点  {id="checkpoint"}
 
 ## 建材类目包 {id="blocks"}
 
-## 共同编辑
+![creative-blocks.png](creative-blocks.png){width="500"}
 
-## 官方推荐
+## 测试与发布 {id="publish"}
 
-## 官方收录
+## 等级与限制 {id="ratings"}
+
+## 地图转让 {id="transfer"}
+
+## 建议与意见 {id="suggestions"}
+
+## 赛事选项 {id="competition"}
+
+## 排行榜维护 {id="leaderboard"}
+
+## 保存背包 {id="backpack"}
+
+## 官方推荐 {id="recommend"}
+
+## 官方收录 {id="employ"}
 
