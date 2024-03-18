@@ -2,6 +2,8 @@
 
 您可打开 [创意功能界面](creative.md#functions) 并在 **方块与物品** 中从工具包获得世界编辑工具。
 
+![creative-editor-tools.png](creative-editor-tools.png)
+
 本文档内涉及的基本按键/操作简写如下
 
 |           简写            | 代表功能 |
@@ -93,7 +95,7 @@
 <shortcut>LB</shortcut>/<shortcut>RB</shortcut> 分别选取对角方块后，
 使用<shortcut>S+LA</shortcut>选取方块，<shortcut>S+RA</shortcut>选取方块进行替换。
 
-(类似上面区域填充反转遮罩效果)
+> 该效果类似于 区域填充+反转遮罩 。
 
 ## 平移工具
 
