@@ -11,7 +11,9 @@
         <toc-element topic="basic.md"/>
         <toc-element topic="lobby.md"/>
         <toc-element topic="game.md"/>
-        <toc-element topic="creative.md"/>
+        <toc-element topic="creative.md">
+            <toc-element topic="creative-editor.md"/>
+        </toc-element>
         <toc-element topic="competition.md"/>
         <toc-element topic="matches.md"/>
         <toc-element topic="social.md">
