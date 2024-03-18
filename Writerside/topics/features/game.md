@@ -10,7 +10,7 @@
 
 打开评级地图列表后，您将看到不同的评级等级与考核地图。
 
-![rating_maps.png](rating_maps.png){width="500"}
+![rating_maps.png](rating-maps.png){width="500"}
 
 其中，评级等级自下而上分为：
 1. 皮靴

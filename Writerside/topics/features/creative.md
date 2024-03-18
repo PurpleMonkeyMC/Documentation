@@ -27,6 +27,10 @@
 
 您可以输入 `/menu` 或按下 <shortcut>Shift+切换副手键</shortcut> 快速打开创意功能界面。
 
+## 世界编辑工具 {id=“world-editor"}
+
+详见 [世界编辑工具](creative-editor.md) 。
+
 ## 地图边界 {id="border"}
 
 ## 记录点与进度点  {id="checkpoint"}
