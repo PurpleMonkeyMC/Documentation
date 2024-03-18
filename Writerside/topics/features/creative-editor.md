@@ -8,7 +8,7 @@
 
 本文档内涉及的基本按键/操作简写如下
 
-{type=narrow}
+{id=keymap type=narrow}
 <shortcut>S</shortcut>
 : 下蹲键
 
