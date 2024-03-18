@@ -15,10 +15,17 @@
 
 ## 商业合作
 
-**PurpleMonkeyMC** 拥有浑厚的技术底蕴与优秀的服务态度，有十足的信心能为您承办中型乃至大型跑酷赛事，具体事务请联系[商务邮箱](mailto:zihoupmc@163.com) `zihoupmc@163.com` 。
-
+**PurpleMonkeyMC** 拥有浑厚的技术底蕴与优秀的服务态度，有十足的信心能为您承办中型乃至大型跑酷赛事，
+具体事务请联系[商务邮箱](mailto:zihoupmc@163.com) `zihoupmc@163.com` 。
 
 ## 推荐文献
 
 - [我的世界跑酷中文维基](https://mcpkcn.fandom.com/zh/wiki/MCPKCN_Wiki)
 - [MineCraft Parkour WIKI](https://www.mcpk.wiki/wiki/Main_Page)
+
+## 特别致谢
+
+特别感谢为本文档贡献内容的[诸位作者](https://github.com/PurpleMonkeyMC/Documentation/graphs/contributors)！
+
+Many thanks to Jetbrains for kindly providing a license for us to work on this and other open-source projects.  
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=https://github.com/PurpleMonkeyMC)
