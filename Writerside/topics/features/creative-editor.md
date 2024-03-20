@@ -113,7 +113,7 @@
 使用<shortcut>S+LA</shortcut>向任意六个方向选取目标方块，
 使用<shortcut>S+RA</shortcut>向目标目标方块平移。
 
-![平移工具](translate.png){width="300"}
+![平移工具](worldeditor-move.png){width="300"}
 
 ## 镜向工具
 
