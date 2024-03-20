@@ -1,5 +1,7 @@
 # 大厅功能
 
+## 奖励邮差 {id=awards}
+
 ## 工具包编辑 {id="toolkit"}
 ![toolkit-editor](toolkit-editor.jpg) {width="500"}
 
