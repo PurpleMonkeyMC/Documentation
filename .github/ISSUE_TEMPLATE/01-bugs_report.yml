@@ -1,0 +1,70 @@
+name: 问题提交
+description: 描述问题并提交，帮助我们对其进行检查与修复。
+title: "fix: "
+labels: ["bug"]
+projects: ["PurpleMonkeyMC/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        @CarmJos
+  - type: input
+    id: ign
+    attributes:
+      label: 您的游戏用户名
+      description: 请输入您的游戏内的用户名。
+      placeholder: MyInGameName
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 问题类目
+      description: 是服务器中的哪个模块出现了问题？
+      options:
+        - 全部都有
+        - 链接(PROXY)
+        - 登陆(LOGIN)
+        - 大厅(LOBBY)
+        - 创意(CREATIVE)
+        - 游戏(SERVICE)
+        - 赛事(COMPETITION)
+        - 其他(OTHERS)
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: 问题简述
+      description: 用简短的话语描述一下大概问题。
+      placeholder: 在 XXX 进行 XX 时发生了 XXX。
+    validations:
+      required: true
+  - type: textarea
+    id: reproducing
+    attributes:
+      label: 问题复现
+      description: 描述一下通过哪些操作才发现的问题。
+      placeholder: |
+         1. 打开 '...'
+         2. 点击了 '....'
+         3. 出现了错误提示 '....'
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+      description: 如果问题不发生，应该是什么情况。
+      placeholder: 当点击了 XXX 时，应当 ... 。
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他补充
+      description: 问题截图、操作者、详细发生问题的地图/服务器ID等其他可以帮助我们的内容。
+      placeholder: 如有其他补充，可以在这里描述。
+    validations:
+      required: false

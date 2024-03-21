@@ -1,0 +1,66 @@
+name: 功能需求
+description: 希望我们提供更多的功能。
+title: "feat: "
+labels: ["enhancement"]
+projects: ["PurpleMonkeyMC/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        @CarmJos
+  - type: input
+    id: ign
+    attributes:
+      label: 您的游戏用户名
+      description: 请输入您的游戏内的用户名。
+      placeholder: MyInGameName
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 功能类目
+      description: 该功能属于哪个类目？
+      options:
+        - 游戏功能开发
+        - 用户体验优化
+        - 运营活动安排
+        - 美术资源更新
+        - 其他
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: 功能简述
+      description: 简单的描述一下你想要的功能。
+      placeholder: 在 XXX 进行 XX 时发生了 XXX。
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 需求来源
+      description: 简单的描述一下为什么需要这个功能。
+      placeholder: |
+         为了 XXX ，需要 XXX， 以便于 XXX。
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: 功能参考
+      description: 如果有相关功能的参考，如文本、截图，请提供给我们。
+      placeholder: |
+        可以参考 XXX 服务器的 XX 功能（附上截图）。
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他补充
+      description: 如果有什么小细节需要重点注意，请在这里告诉我们。
+      placeholder: 如有其他补充，可以在这里描述。
+    validations:
+      required: false

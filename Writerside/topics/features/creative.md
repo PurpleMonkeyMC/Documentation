@@ -21,11 +21,19 @@
 
 ## 协作编辑 {id="cooperate"}
 
-## 创意工具 {id="tools"}
+## 创意功能 {id="functions"}
 
-![creative-tools.png](creative-tools.png){width="500"}
+![creative functions](creative-functions.png){width="500"}
 
-您可以输入 `/menu` 或按下 <shortcut>Shift+切换副手键</shortcut> 快速打开创意工具界面。
+您可以输入 `/menu` 或按下 <shortcut>Shift+切换副手键</shortcut> 快速打开创意功能界面。
+
+## 世界编辑工具 {id="world-editor"}
+
+![creative-editor-tools.png](creative-editor-tools.png)
+
+您可打开 [创意功能界面](creative.md#functions) 并在 **方块与物品** 中从工具包获得世界编辑工具。
+
+具体使用方法请移步 [世界编辑工具](creative-editor.md) 。
 
 ## 地图边界 {id="border"}
 
