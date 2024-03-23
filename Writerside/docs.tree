@@ -28,5 +28,7 @@
     </toc-element>
     <toc-element topic="experience.md"/>
     <toc-element topic="issues.md"/>
+    <toc-element topic="staff.md"/>
+    <toc-element topic="moderator.md"/>
     <toc-element topic="changelog.md"/>
 </instance-profile>
