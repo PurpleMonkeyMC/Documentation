@@ -10,7 +10,7 @@ ___
 
 ## 2024-03-24
 
-[**支持个人载具功能**](lobby.md#vehicle)
+**[支持个人载具功能](lobby.md#vehicle)**
 : 现在可以在大厅中召唤个人载具了。
 : ![vehicle.png](vehicle.png)
 
