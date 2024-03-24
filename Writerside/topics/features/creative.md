@@ -2,7 +2,7 @@
 
 游玩来自其他大神的跑酷地图作品，或利用创意工具制作您自己的跑酷地图供他人练习！
 
-您可以在大厅中输入 `/creative` 打开创意界面。
+您可以在主城中输入 `/creative` 打开创意界面。
 
 ![creative-gui.png](creative-gui.png)
 
