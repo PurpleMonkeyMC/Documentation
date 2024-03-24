@@ -47,6 +47,24 @@
 
 ## 召唤载具 {id="vehicle"}
 
+在大厅，您可以点击“召唤载具”工具以召唤出您的个人载具。
+
+![vehicle.png](vehicle.png){style="inline" height=200}![vehicle-water.png](vehicle-water.png){style="inline" height=200}
+
+当您在陆地上时，您将召唤您所设置的陆地载具；在水中时，将召唤船以便您在水中航行。
+
+您可以蹲下并使用“召唤载具”工具，这将为您打开载具功能界面。您可以在此界面中切换和自定义您的个人载具。
+
+针对不同等级的会员，所拥有的载具会有所不同，详见 [会员权限/权限与功能](ranks.md)。
+
+## 骑乘管理 {id="riding-staff"}
+
+在大厅中，[管理员](staff.md) 可以将您抱起并抛出。
+
+![riding-staff.png](riding-staff.png)
+
+若您是 [Ultra会员](ranks.md) ，则您可以主动右键点击管理员并骑上Ta的头。
+
 ## 钓鱼系统 {id="fishing"}
 
 ## NPC互动 {id="npc"}
