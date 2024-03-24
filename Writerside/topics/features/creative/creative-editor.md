@@ -2,13 +2,12 @@
 
 <show-structure for="chapter,procedure" depth="2"/>
 
-您可打开 [创意功能界面](../creative.md#functions) 并在 **方块与物品** 中从工具包获得世界编辑工具。
+您可打开 [创意功能界面](creative.md#functions) 并在 **方块与物品** 中从工具包获得世界编辑工具。
 
 ![creative-editor-tools.png](creative-editor-tools.png)
 
 本文档内涉及的基本按键/操作简写如下
 
-{id=keymap type=narrow}
 <shortcut>S</shortcut>
 : 下蹲键
 
