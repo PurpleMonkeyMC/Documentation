@@ -53,6 +53,10 @@
 
 > 可查看的录像范围受权限控制，详见 [会员身份/权限与功能](ranks.md) 中关于录像查看范围的描述。{style=note}
 
+## 跑酷评分 {id=score}
+
+
+
 ## 进度提示 {id="progress"}
 
 在您游玩跑酷地图的过程中，您的经验条和相应的等级将会根据当前跑酷的进度进行相应的显示。
@@ -154,13 +158,23 @@
 
 ## 地图评价 {id="evaluate"}
 
+
+
 ## 记录公告 {id="record-announce"}
+
+
 
 ## 游戏录像 {id="replay"}
 
+
+
 ## 进度保存 {id="progress-save"}
 
+
+
 ## 操作撤销 {id="regress"}
+
+
 
 ## 地图推荐 {id="recommend"}
 
