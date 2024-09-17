@@ -4,6 +4,8 @@
 
 我们励志于创造亚洲**专业跑酷竞技**服务器，在支持各类创意内容的同时，热衷于开办拥有丰厚奖励的赛事，以继续刺激MC跑酷环境的发展与创新。
 
+<iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/play.pmmc.cc/embed" width="728" height="120"></iframe>
+
 ## 基本情况 {id=info}
 
 - 服务器地址 `play.pmmc.cc`
