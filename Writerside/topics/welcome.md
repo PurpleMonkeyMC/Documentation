@@ -12,8 +12,9 @@
 - 服务器版本 `1.18.2` (当前)
 - 服务器资源包 `必须启用`
 - 服务器QQ群 `750760855`
-- KOOK语音 `https://kook.top/9FVj6L`
-- Discord `https://discord.gg/h4MWYwAxDy`
+- Bilibili [@PMC跑酷服务器](https://space.bilibili.com/3493143842392737)
+- KOOK语音 [@PMC我的世界跑酷服务器](https://kook.top/9FVj6L) `https://kook.top/9FVj6L`
+- Discord [@PurpleMonkey Championship](https://discord.gg/h4MWYwAxDy) `https://discord.gg/h4MWYwAxDy`
 
 ## 商业合作 {id=business}
 
