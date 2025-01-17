@@ -2,6 +2,7 @@ name: 问题提交
 description: 描述问题并提交，帮助我们对其进行检查与修复。
 title: "fix: "
 labels: ["bug"]
+type: ["Bug"]
 projects: ["PurpleMonkeyMC/2"]
 body:
   - type: markdown
