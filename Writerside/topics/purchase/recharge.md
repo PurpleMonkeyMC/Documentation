@@ -12,6 +12,10 @@
 
 在 **主城** 中，找到“**天宝银号柜台**”的**钱来**`-162,51,-47`，与他互动即可兑换水晶。
 
+> 可以点击背包内的传送点快速传送到对应位置哦~
+> ![lobby-tp-bank.png](lobby-tp-bank.png){style="inline"}
+> {style=note}
+
 ![recharge-ui.png](recharge-ui.png){width="500"}
 
 > 首次兑换某种面额的水晶时，将额外奖励一份等额水晶。 {style=note}

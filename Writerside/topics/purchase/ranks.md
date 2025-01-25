@@ -12,6 +12,12 @@
 
 在 **主城** 中，找到“**炼金行老板**”**凯瑟琳**`-209,52,-36`，与她互动即可租赁魔法斗篷（订阅会员）。
 
+> 可以点击背包内的传送点快速传送到对应位置哦~
+> ![lobby-tp-rank.png](lobby-tp-rank.png){style="inline"}
+> {style=note}
+
+![ranks-ui.png](ranks-ui.png)
+
 ## 周期价格 {id="price"}
 
 | 周期 | PLUS | PRO  | ULTRA |
@@ -21,7 +27,7 @@
 | 年度 |  -   | 188元 | 688元  |
 | 永久 | 18元  |  -   |   -   |
 
-> PRO -> ULTRA 兑换基础比例为 `0.25x` 。 {style=note}
+> PRO -> ULTRA 兑换基础比例为 `0.25x`，即4天PRO转换为1天ULTRA，按小时计算。 {style=note}
 
 ## 权限与功能 {id="differences"}
 
